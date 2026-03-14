@@ -113,7 +113,7 @@ pyee==9.0.4
 Pygments==2.15.1
 pyHanko==0.18.0
 pyhanko-certvalidator==0.22.0
-PyJWT==2.6.0
+PyJWT==2.12.0
 Pympler==1.0.1
 pyparsing==3.0.9
 PyPDF2==3.0.1
