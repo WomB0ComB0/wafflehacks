@@ -110,7 +110,7 @@ pydantic==1.10.6
 pydeck==0.8.1b0
 pydyf==0.6.0
 pyee==9.0.4
-Pygments==2.15.1
+Pygments==2.20.0
 pyHanko==0.18.0
 pyhanko-certvalidator==0.22.0
 PyJWT==2.6.0
