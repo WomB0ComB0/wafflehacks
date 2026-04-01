@@ -177,7 +177,7 @@ uritemplate==4.1.1
 uritools==4.0.0
 urllib3==1.26.15
 validators==0.20.0
-virtualenv==20.23.0
+virtualenv==20.36.1
 wasabi==1.1.1
 watchdog==3.0.0
 weasyprint==56.1
